@@ -1,0 +1,4 @@
+This Code for the Arduino writes and reads data from the EEPROM. All the data strings are stored in EEPROM for saving space
+in the Microcontroller. Also most importantly the password is saved in the EEPROM. For the first time we write a default
+password in the EEPROM and later we can change the password by the keyboard interface.
+In case we forget our saved password we can use this programme for retriving the changed password.
